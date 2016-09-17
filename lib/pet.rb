@@ -1,6 +1,6 @@
 require 'date'
 #
-class Pet
+class Fish
   attr_reader :dob, :kind, :name
 
   def initialize(pet_data)
